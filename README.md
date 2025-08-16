@@ -2,7 +2,7 @@
 
 A beautiful, modern manga downloader for HentaiFox with both **CLI** and **GUI** interfaces, featuring **Aria2c integration** for blazing-fast downloads, **parallel processing**, and **PDF/CBZ conversion** for the ultimate manga experience.
 
-![HentaiFox Downloader GUI](gui/screenshot.png)
+![HentaiFox Downloader GUI](gui/gui.PNG)
 
 ## 🔗 Repository
 **GitHub**: [github.com/Yui007/hentaifox_downloader](https://github.com/Yui007/hentaifox_downloader)
